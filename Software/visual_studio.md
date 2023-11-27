@@ -15,7 +15,7 @@ from the [wiki](https://code.visualstudio.com) Visual Studio Code is a cross-pla
 <a href="#section-1"> i.iii [manual](#manual) </a> <br />
 <a href="#section-1"> ii. [opensource](#opensource) </a><br />
 <a href="#section-1"> ii.i [warning](#warning) </a><br />
-<a href="#section-1"> ii.iii [flatpak](#flatpakopensource) </a> <br />
+<a href="#section-1"> ii.iii [flatpak opensource](#flatpakopensource) </a> <br />
 <a href="#section-1"> ii.iii [manual opensource](#manualopensource) </a> <br />
 </li>
 
