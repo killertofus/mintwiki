@@ -15,8 +15,8 @@ from the [wiki](https://code.visualstudio.com) Visual Studio Code is a cross-pla
 <a href="#section-1"> i.iii [manual](#manual) </a> <br />
 <a href="#section-1"> ii. [opensource](#opensource) </a><br />
 <a href="#section-1"> ii.i [warning](#warning) </a><br />
-<a href="#section-1"> ii.iii [flatpak](#flatpak opensource) </a> <br />
-<a href="#section-1"> ii.iii [manual opensource](#manual opensource) </a> <br />
+<a href="#section-1"> ii.iii [flatpak](#flatpakopensource) </a> <br />
+<a href="#section-1"> ii.iii [manual opensource](#manualopensource) </a> <br />
 </li>
 
 
@@ -70,11 +70,11 @@ Known workarounds are:
 
 It is useful to enable a [keyboard shortcut](https://stackoverflow.com/a/69985500) to reload the IDE when experimenting with changing `product.json`
 
-## flatpak opensource
+## flatpakopensource
 ---
 `flatpak install flathub com.vscodium.codium`
 
-## manual opensource
+## manualopensource
 ---
 `wget -qO - https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/raw/master/pub.gpg \
     | gpg --dearmor \
